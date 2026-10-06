@@ -1,0 +1,31 @@
+TASK 5 – EXECUTIVE ANALYTICS CAPSTONE
+Speaking Script
+
+Slide 1 – Opening
+“Hello everyone. This presentation summarizes my customer churn analysis. I analyzed a 15-customer dataset and converted the findings into business insights, risk priorities, and retention recommendations.”
+
+Slide 2 – Executive Snapshot
+“The dataset contains 15 customers. Seven customers have churned, giving an observed churn rate of 46.67%, while the retention rate is 53.33%. The total observed customer value in the TotalCharge field is ₹31,327.18. Churned customers account for ₹3,109.51. These figures are directional because the dataset is small.”
+
+Slide 3 – Five Important Insights
+“First, churn is material in this sample. Second, month-to-month contracts have the highest churn rate. Third, churned customers have shorter average tenure. Fourth, churned customers have more support tickets on average. Fifth, retention should combine churn risk with customer value so the team focuses on the most important accounts.”
+
+Slide 4 – Where to Focus
+“The strongest immediate focus is on month-to-month customers, especially those with short tenure and higher support-ticket counts. Longer contracts show stronger retention in this sample. This suggests that contract commitment and early customer experience are useful signals for prioritization.”
+
+Slide 5 – Recommended Retention Plan
+“My recommendation is a five-step plan. First, contact high-risk customers. Second, resolve recurring support problems. Third, offer appropriate contract-upgrade incentives. Fourth, prioritize higher-value customers when resources are limited. Fifth, monitor churn regularly and validate the approach on a larger dataset.”
+
+Slide 6 – Risk Model
+“I used a simple transparent rule-based score. A month-to-month contract receives three points, four or more support tickets receive two points, and tenure below six months receives two points. Scores from five to seven are high risk, three to four are medium risk, and zero to two are low risk. This is a prioritization model, not a machine-learning probability.”
+
+Slide 7 – Impact and Limitations
+“The observed value associated with churned customers is ₹3,109.51. However, this should not be described as guaranteed future revenue loss. The dataset is only 15 customers, and the data appears to be a sample dataset. Therefore, the relationships should be treated as directional and not causal. The next step is validation using a larger historical dataset.”
+
+Slide 8 – Executive Recommendation
+“The main business recommendation is to protect customers who combine high churn risk with meaningful customer value. The first interventions should be targeted outreach, support resolution, and suitable contract-conversion offers. The organization should then measure whether these interventions actually reduce churn.”
+
+Closing
+“In conclusion, the analysis moves from data to action: identify risk, prioritize customers, intervene early, and measure the outcome. Thank you.”
+
+Presentation length: approximately 4–6 minutes.
